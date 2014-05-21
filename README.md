@@ -1,6 +1,4 @@
-Comparando repositorios git
+Calculadora
 =========
 
-Qué repositorios de git hay y qué te ofrecen. 
-
-Incluir una tabla de diferentes repositorios git y qué tipo de facilidades ofrecen al usuario. 
+Pequeña aplicación de ejemplo: calculadora simple en python.
