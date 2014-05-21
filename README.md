@@ -1,4 +1,4 @@
-Comparando repositorios git
+Calculadora
 =========
 
 Pequeña aplicación de ejemplo: calculadora simple en python.
