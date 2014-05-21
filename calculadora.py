@@ -5,6 +5,10 @@ import re
 def suma(a,b):
     return a+b
     
+def resta(a,b):
+    return a-b
+
+    
 if __name__ == "__main__":
     num = 0
 
@@ -16,5 +20,7 @@ if __name__ == "__main__":
         
         if op == '+':
             num = suma(num,b)
+        elif op == '-':
+            num = resta(num,b)
             
         
