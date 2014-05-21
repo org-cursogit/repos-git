@@ -10,6 +10,9 @@ def resta(a,b):
     
 def mult(a,b):
     return a*b
+    
+def div(a,b):
+    return a/b
 
     
 if __name__ == "__main__":
@@ -27,5 +30,7 @@ if __name__ == "__main__":
             num = resta(num,b)
         elif op == '*':
             num = mult(num,b)
+        elif op == '/':
+            num = div(num,b)
             
         
